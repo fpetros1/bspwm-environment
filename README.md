@@ -19,6 +19,10 @@ Personal BSPWM Environment with One Dark theme
 - lxappearance (set GTK Themes)
 - dunst (Notifications)
 
+## Fonts
+- [Hack Nerd Font](https://github.com/ryanoasis/nerd-fonts)
+- Font Awesome ([Cheatsheet V5](https://fontawesome.com/v5/cheatsheet))
+
 ## Basic installation
 - Install bspwm, sxhkd, polybar, feh, file manager, and login manager of preference(optional)
 - Install terminal emulator (if not alacritty, change [config/sxhkd/sxhkdrc](https://github.com/fpetros1/bspwm-environment/tree/main/config/sxhkd) to your preferred emulator
